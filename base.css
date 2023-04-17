@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	background-color: black;
+	color: green;
 	/* Add background-color declaration here */
 }
 ol, ul {
